@@ -3,7 +3,7 @@
         "maxHP": 15.0,
         "Damage": 5.0,
         "DamageRate": 1.0,
-        "AttackRadius": 3.0,
+        "AttackRadius": 300.0,
         "maxSpeed": 2.5
     },
     "EnemyUnit": {
