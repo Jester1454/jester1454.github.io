@@ -33,3 +33,35 @@
         "RotateSpeed": 2.0 //- максимальная скорость вращения башни
     }
 ```
+# Описание параметров конфигурационного файла TightSpace-config
+### Параметры юнита
+```javascript
+    "Drone":
+    {
+        "HealthMax": 100, //- максимальное хп
+		"SpeedMax": 1, //- максимальная скорость движения
+		"ForceMax": 2, //- лимит применяемых сил для Steering behaviors
+		"TurnSpeed": 3, //- скорость поворота
+		"FollowStopRadius": 0.8, //- радиус прибытия к базе (когда прекращается движение и начинается вращение юнита вокруг базы)
+		"SeparationEnabled": true, //- включить/выключить Separation Steering behavior
+		"SeparationRadius": 0.5, //- радиус действия Separation Steering behavior
+		"CohesionEnabled": true, //- включить/выключить Cohesion Steering behavior
+		"CohesionRadius": 0.5, //- радиус действия Cohesion Steering behavior
+		"AttackSpeed": 1.0, //- время в секундах между выстрелами
+		"AttackDamage": 100, //- урон с одного выстрела
+		"AttackRadius": 1.5, //- радиус атаки
+		"AttackMissilePrefabName": "LaserMissile" //- имя префаба для снаряда, должен лежать в Resources/
+    }
+```
+### Параметры базы
+```javascript
+    "Base": 
+    {
+        "HealthMax": 2200, //- максимальное хп
+		"ColliderRadius": 1.35, //- радиус коллайдера (для разпознования юнитов и кликов)
+		"ProduceUnitInterval": 3.0, //- время в секундах между производством юнитов
+		"SpawnUnitPrefabName": "Drone", //- имя префаба для юнита, должен лежать в Resources/Bases/
+		"CapturingStep": 0.01, //- шаг счётчика захвата базы
+		"UnitCountMax": 30 //- максимальное кол-во произведённых юнитов в базе (для входящих юнитов лимита нет)
+    }
+```
