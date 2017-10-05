@@ -1,13 +1,13 @@
 {
     "PlayerUnit": {
-        "maxHP": 3.0,
+        "maxHP": 10.0,
         "Damage": 5.0,
         "DamageRate": 1.0,
         "AttackRadius": 1.5,
         "maxSpeed": 1.5
     },
     "EnemyUnit": {
-        "maxHP": 3.0,
+        "maxHP": 10.0,
         "Damage": 3.0,
         "DamageRate": 1.0,
         "AttackRadius": 1.5,
