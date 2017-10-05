@@ -3,15 +3,15 @@
         "maxHP": 2.5,
         "Damage": 3.0,
         "DamageRate": 1.0,
-        "AttackRadius": 3.0,
-        "maxSpeed": 2.0
+        "AttackRadius": 1.5,
+        "maxSpeed": 1.0
     },
     "EnemyUnit": {
         "maxHP": 2.5,
         "Damage": 3.0,
         "DamageRate": 1.0,
-        "AttackRadius": 3.0,
-        "maxSpeed": 2.0
+        "AttackRadius": 1.5,
+        "maxSpeed": 1.0
     },
     "PlayerBase": {
         "maxHP": 100.0,
@@ -35,14 +35,14 @@
         "maxHP": 15.0,
         "Damage": 1.0,
         "DamageRate": 1.0,
-        "AttackRadius": 5.0,
+        "AttackRadius": 2.5,
         "RotateSpeed": 2.0
     },
     "EnemyTower": {
         "maxHP": 15.0,
         "Damage": 3.0,
         "DamageRate": 1.0,
-        "AttackRadius": 5.0,
+        "AttackRadius": 2.5,
         "RotateSpeed": 2.0
     }
 }
