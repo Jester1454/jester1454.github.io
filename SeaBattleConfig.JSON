@@ -14,19 +14,19 @@
         "maxSpeed": 2.0
     },
     "PlayerBase": {
-        "maxHP": 50.0,
+        "maxHP": 100.0,
         "SpawnRate": 3.0,
         "ProduceUnitRate": 1.0,
         "MaxUnit": 10
     },
     "EnemyBase": {
-        "maxHP": 50.0,
+        "maxHP": 100.0,
         "SpawnRate": 1.0,
         "ProduceUnitRate": 1.0,
         "MaxUnit": 10
     },
     "NeutralBase": {
-        "maxHP": 50.0,
+        "maxHP": 100.0,
         "SpawnRate": 1.0,
         "ProduceUnitRate": 1.0,
         "MaxUnit": 10
