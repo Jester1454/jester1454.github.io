@@ -4,14 +4,14 @@
         "Damage": 5.0,
         "DamageRate": 1.0,
         "AttackRadius": 3.0,
-        "maxSpeed": 2.5
+        "maxSpeed": 1.5
     },
     "EnemyUnit": {
         "maxHP": 3.0,
         "Damage": 3.0,
         "DamageRate": 1.0,
         "AttackRadius": 3.0,
-        "maxSpeed": 2.5
+        "maxSpeed": 1.5
     },
     "PlayerBase": {
         "maxHP": 50.0,
@@ -21,19 +21,19 @@
     },
     "EnemyBase": {
         "maxHP": 50.0,
-        "SpawnRate": 3.0,
+        "SpawnRate": 1.0,
         "ProduceUnitRate": 1.0,
         "MaxUnit": 10
     },
     "NeutralBase": {
         "maxHP": 50.0,
-        "SpawnRate": 3.0,
+        "SpawnRate": 1.0,
         "ProduceUnitRate": 1.0,
         "MaxUnit": 10
     },
     "PlayerTower": {
         "maxHP": 15.0,
-        "Damage": 3.0,
+        "Damage": 1.0,
         "DamageRate": 1.0,
         "AttackRadius": 5.0,
         "RotateSpeed": 2.0
