@@ -8,7 +8,7 @@
 	},
 	"BaseTransit": {
 		"HealthMax": 4500,
-		"ColliderRadius": 1.6,
+		"ColliderRadius": 1.6
 	},
 	"Drone": {
 		"HealthMax": 100,
