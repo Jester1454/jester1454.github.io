@@ -7,7 +7,7 @@
 		"UnitCountMax": 50
 	},
 	"BaseTransit": {
-		"HealthMax": 4500,
+		"HealthMax": 2000,
 		"ColliderRadius": 1.6
 	},
 	"Drone": {
