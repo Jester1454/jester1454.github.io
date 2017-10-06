@@ -4,8 +4,11 @@
 		"ColliderRadius": 1.6,
 		"ProduceUnitInterval": 2.0,
 		"SpawnUnitPrefabName": "Drone",
-		"CapturingStep": 0.01,
 		"UnitCountMax": 50
+	},
+	"BaseTransit": {
+		"HealthMax": 4500,
+		"ColliderRadius": 1.6,
 	},
 	"Drone": {
 		"HealthMax": 100,
