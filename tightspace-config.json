@@ -1,7 +1,7 @@
 {
 	"Base": {
 		"HealthMax": 4500,
-		"ColliderRadius": 1.25,
+		"ColliderRadius": 1.6,
 		"ProduceUnitInterval": 2.0,
 		"SpawnUnitPrefabName": "Drone",
 		"CapturingStep": 0.01,
