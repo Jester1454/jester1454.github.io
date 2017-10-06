@@ -12,7 +12,7 @@
 		"SpeedMax": 1,
 		"ForceMax": 2,
 		"TurnSpeed": 3,
-		"FollowStopRadius": 1.5,
+		"EnterBaseRadius": 0.5,
 		"SeparationEnabled": true,
 		"SeparationRadius": 0.5,
 		"CohesionEnabled": true,
