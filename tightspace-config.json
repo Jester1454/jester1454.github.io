@@ -9,7 +9,7 @@
 		"AttackSpeed": 2,
 		"AttackDamage": 100,
 		"AttackRadius": 4,
-		"AttackMissilePrefabName": "LaserMissile",
+		"AttackMissilePrefabName": "LaserMissile"
 	},
 	"BaseTransit": {
 		"HealthMax": 2000,
