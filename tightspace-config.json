@@ -1,6 +1,6 @@
 {
 	"Base": {
-		"HealthMax": 4500,
+		"HealthMax": 50,
 		"ColliderRadius": 1.6,
 		"ProduceUnitInterval": 2.0,
 		"SpawnUnitPrefabName": "Drone",
@@ -13,7 +13,9 @@
 	},
 	"BaseTransit": {
 		"HealthMax": 2000,
-		"ColliderRadius": 1.6
+		"ColliderRadius": 1.6,
+		"SpawnUnitPrefabName": "Drone",
+		"CaptureUnitCount": 5
 	},
 	"Drone": {
 		"HealthMax": 100,
@@ -26,7 +28,7 @@
 		"CohesionEnabled": true,
 		"CohesionRadius": 0.5,
 		"AttackSpeed": 1.0,
-		"AttackDamage": 20,
+		"AttackDamage": 30,
 		"AttackRadius": 2,
 		"AttackMissilePrefabName": "LaserMissile"
 	}
