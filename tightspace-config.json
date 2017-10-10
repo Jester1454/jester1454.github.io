@@ -6,8 +6,8 @@
 		"SpawnUnitPrefabName": "Drone",
 		"UnitCountMax": 50,
 		"CaptureUnitCount": 5,
-		"AttackSpeed": 2,
-		"AttackDamage": 100,
+		"AttackSpeed": 4,
+		"AttackDamage": 0,
 		"AttackRadius": 4,
 		"AttackMissilePrefabName": "LaserMissile"
 	},
@@ -26,7 +26,7 @@
 		"CohesionEnabled": true,
 		"CohesionRadius": 0.5,
 		"AttackSpeed": 1.0,
-		"AttackDamage": 40,
+		"AttackDamage": 20,
 		"AttackRadius": 2,
 		"AttackMissilePrefabName": "LaserMissile"
 	}
