@@ -20,25 +20,28 @@
         "MaxUnit": 10,
         "Damage": 1.0,
         "DamageRate": 1.0,
-        "AttackRadius": 4.0
+        "AttackRadius": 4.0,
+        "StartCountUnit": 5
     },
     "EnemyBase": {
         "maxHP": 100.0,
         "SpawnRate": 2.0,
-        "ProduceUnitRate":  2.0,
+        "ProduceUnitRate": 2.0,
         "MaxUnit": 10,
         "Damage": 1.0,
         "DamageRate": 1.0,
-        "AttackRadius": 4.0
+        "AttackRadius": 4.0,
+        "StartCountUnit": 5
     },
     "NeutralBase": {
         "maxHP": 100.0,
         "SpawnRate": 2.0,
-        "ProduceUnitRate":  4.0,
+        "ProduceUnitRate": 4.0,
         "MaxUnit": 10,
         "Damage": 1.0,
         "DamageRate": 1.0,
-        "AttackRadius": 4.0
+        "AttackRadius": 4.0,
+        "StartCountUnit": 10
     },
     "PlayerTower": {
         "maxHP": 15.0,
