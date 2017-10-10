@@ -16,7 +16,7 @@
     "PlayerBase": {
         "maxHP": 100.0,
         "SpawnRate": 2.0,
-        "ProduceUnitRate": 2.0,
+        "ProduceUnitRate": 1.0,
         "MaxUnit": 10,
         "Damage": 1.0,
         "DamageRate": 1.0,
@@ -26,7 +26,7 @@
     "EnemyBase": {
         "maxHP": 100.0,
         "SpawnRate": 2.0,
-        "ProduceUnitRate": 2.0,
+        "ProduceUnitRate": 1.0,
         "MaxUnit": 10,
         "Damage": 1.0,
         "DamageRate": 1.0,
@@ -36,7 +36,7 @@
     "NeutralBase": {
         "maxHP": 100.0,
         "SpawnRate": 2.0,
-        "ProduceUnitRate": 4.0,
+        "ProduceUnitRate": 1.0,
         "MaxUnit": 10,
         "Damage": 1.0,
         "DamageRate": 1.0,
