@@ -15,7 +15,7 @@
 		"HealthMax": 2000,
 		"ColliderRadius": 1.6,
 		"SpawnUnitPrefabName": "Drone",
-		"CaptureUnitCount": 5
+		"CaptureUnitCount": 3
 	},
 	"Drone": {
 		"HealthMax": 100,
