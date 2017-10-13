@@ -6,7 +6,7 @@
 		"SpawnUnitPrefabName": "Drone",
 		"UnitCountMax": 50,
 		"CaptureUnitCount": 3,
-		"AttackSpeed": 1.5,
+		"AttackSpeed": 1,
 		"AttackDamage": 0,
 		"AttackRadius": 4,
 		"AttackMissilePrefabName": "LaserMissile"
