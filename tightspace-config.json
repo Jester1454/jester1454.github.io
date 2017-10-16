@@ -35,5 +35,14 @@
 		"AttackDamage": 40,
 		"AttackRadius": 2,
 		"AttackMissilePrefabName": "LaserMissile"
+	},
+	"Mothership": {
+		"HealthMax": 1000,
+		"SpeedMax": 0.3,
+		"MovingAroundRadius": 2.4,
+		"AttackSpeed": 2.0,
+		"AttackDamage": 120,
+		"AttackRadius": 4,
+		"AttackMissilePrefabName": "LaserMissile"
 	}
 }
