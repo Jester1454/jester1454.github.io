@@ -3,14 +3,14 @@
         "maxHP": 3.0,
         "Damage": 3.0,
         "DamageRate": 1.0,
-        "AttackRadius": 1.5,
+        "AttackRadius": 3.0,
         "maxSpeed": 2.0
     },
     "EnemyUnit": {
         "maxHP": 3.0,
         "Damage": 3.0,
         "DamageRate": 1.0,
-        "AttackRadius": 1.5,
+        "AttackRadius": 3.0,
         "maxSpeed": 2.0
     },
     "PlayerBase": {
