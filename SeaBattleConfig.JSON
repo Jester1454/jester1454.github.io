@@ -1,14 +1,14 @@
 {
     "PlayerUnit": {
-        "maxHP": 3.0,
-        "Damage": 3.0,
+        "maxHP": 1.0,
+        "Damage": 1.0,
         "DamageRate": 1.0,
         "AttackRadius": 3.0,
         "maxSpeed": 2.0
     },
     "EnemyUnit": {
-        "maxHP": 3.0,
-        "Damage": 3.0,
+        "maxHP": 1.0,
+        "Damage": 1.0,
         "DamageRate": 1.0,
         "AttackRadius": 3.0,
         "maxSpeed": 2.0
@@ -24,7 +24,7 @@
         "StartCountUnit": 5
     },
     "EnemyBase": {
-        "maxHP": 100.0,
+        "maxHP": 10.0,
         "SpawnRate": 2.0,
         "ProduceUnitRate": 3.0,
         "MaxUnit": 10,
@@ -34,7 +34,7 @@
         "StartCountUnit": 5
     },
     "NeutralBase": {
-        "maxHP": 100.0,
+        "maxHP": 10.0,
         "SpawnRate": 2.0,
         "ProduceUnitRate": 3.0,
         "MaxUnit": 10,
