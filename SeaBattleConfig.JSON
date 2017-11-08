@@ -41,7 +41,7 @@
         "Damage": 1.0,
         "DamageRate": 1.0,
         "AttackRadius": 4.0,
-        "StartCountUnit": 10
+        "StartCountUnit": 5
     },
     "PlayerTower": {
         "maxHP": 15.0,
