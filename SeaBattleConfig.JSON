@@ -44,14 +44,14 @@
         "StartCountUnit": 10
     },
     "PlayerMotherShip": {
-        "maxHP": 50.0,
+        "maxHP": 100.0,
         "Damage": 1.0,
         "DamageRate": 1.0,
         "AttackRadius": 5.0,
         "maxSpeed": 2.0
     },
     "EnemyMotherShip": {
-        "maxHP": 50.0,
+        "maxHP": 100.0,
         "Damage": 1.0,
         "DamageRate": 1.0,
         "AttackRadius": 5.0,
